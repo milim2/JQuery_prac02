@@ -1,0 +1,115 @@
+{
+       "person" :    
+            [
+                {
+                "firstName" : "Harry",
+                "lastName" : "Potter",
+                "email" :  "harryp@hogwarts.magic ", 
+                "contactInfo" : 
+                    [ 
+                        {"homephone" : "111-111-1111"},
+                        {"cellphone" : "112-112-1122"},
+                        {"workphone" : "113-113-1133"}
+                    ]
+                },
+                {
+                    "firstName" : "Draco",
+                    "lastName" : "Malfoy",
+                    "email" :  "malfoy@hogwarts.magic ", 
+                    "contactInfo" : 
+                        [ 
+                            {"homephone" : "999-999-9999"},
+                            {"cellphone" : "998-998-9988"},
+                            {"workphone" : "997-997-9977"}
+                        ]
+                },
+                {
+                    "firstName" : "Neville",
+                    "lastName" : "Longbottom",
+                    "email" :  "nvbottom@hogwarts.magic ", 
+                    "contactInfo" : 
+                        [ 
+                            {"homephone" : "221-221-2211"},
+                            {"cellphone" : "222-222-22222"},
+                            {"workphone" : "223-223-2233"}
+                        ]
+               },
+               {
+                "firstName" : "Luna",
+                "lastName" : "Lovegood",
+                "email" :  "love4u@hogwarts.magic ", 
+                "contactInfo" : 
+                    [ 
+                        {"homephone" : "331-331-3311"},
+                        {"cellphone" : "332-332-3322"},
+                        {"workphone" : "333-333-3333"}
+                    ]
+               },
+               {
+                "firstName" : "Rubeus",
+                "lastName" : "Hagrid",
+                "email" :  "rhagrid@hogwarts.magic ", 
+                "contactInfo" : 
+                    [ 
+                        {"homephone" : "441-441-4411"},
+                        {"cellphone" : "442-442-4422"},
+                        {"workphone" : "443-443-4433"}
+                    ]
+               },
+               {
+                "firstName" : "Hermione",
+                "lastName" : "Granger",
+                "email" :  "hgranger@hogwarts.magic ", 
+                "contactInfo" : 
+                    [ 
+                        {"homephone" : "551-551-5511"},
+                        {"cellphone" : "552-552-5522"},
+                        {"workphone" : "553-553-5533"}
+                    ]
+               },
+               {
+                "firstName" : "Ron",
+                "lastName" : "Weasley",
+                "email" :  "ronwsl@hogwarts.magic ", 
+                "contactInfo" : 
+                    [ 
+                        {"homephone" : "661-661-6611"},
+                        {"cellphone" : "662-662-6622"},
+                        {"workphone" : "663-663-6633"}
+                    ]
+               },
+               {
+                "firstName" : "Cedric",
+                "lastName" : "Diggory",
+                "email" :  "diggory@hogwarts.magic ", 
+                "contactInfo" : 
+                    [ 
+                        {"homephone" : "211-211-2211"},
+                        {"cellphone" : "212-212-2121"},
+                        {"workphone" : "213-213-2133"}
+                    ]
+               },
+               {
+                "firstName" : "Cho",
+                "lastName" : "Chang",
+                "email" :  "chochang@hogwarts.magic ", 
+                "contactInfo" : 
+                    [ 
+                        {"homephone" : "311-311-3311"},
+                        {"cellphone" : "312-312-3312"},
+                        {"workphone" : "313-313-3313"}
+                    ]
+               },
+               {
+                "firstName" : "Oliver",
+                "lastName" : "Wood",
+                "email" :  "woliver@hogwarts.magic ", 
+                "contactInfo" : 
+                    [ 
+                        {"homephone" : "411-411-4411"},
+                        {"cellphone" : "412-412-4412"},
+                        {"workphone" : "413-413-4413"}
+                    ]
+               }
+            ]          
+}
