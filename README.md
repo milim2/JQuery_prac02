@@ -1,1 +1,2 @@
-# jQuery_prac02
+## jQuery_prac02
+> json with jQuery
