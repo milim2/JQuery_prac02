@@ -1,0 +1,67 @@
+{
+    "HOGWARTS":
+
+    {
+        "students": [{
+                "firstName": "Harry",
+                "lastName": "Potter",
+                "email": "harryp@hogwarts.magic ",
+                "phones": ["111-111-1111", "112-112-1122", "113-113-1133"]
+            },
+            {
+                "firstName": "Draco",
+                "lastName": "Malfoy",
+                "email": "malfoy@hogwarts.magic ",
+                "phones": ["999-999-9999", "998-998-9988", "997-997-9977"]
+            },
+            {
+                "firstName": "Neville",
+                "lastName": "Longbottom",
+                "email": "nvbottom@hogwarts.magic ",
+                "phones": ["221-221-2211", "222-222-22222", "223-223-2233"]
+            },
+            {
+                "firstName": "Luna",
+                "lastName": "Lovegood",
+                "email": "love4u@hogwarts.magic ",
+                "phones": ["331-331-3311", "332-332-3322", "333-333-3333"]
+            },
+            {
+                "firstName": "Rubeus",
+                "lastName": "Hagrid",
+                "email": "rhagrid@hogwarts.magic ",
+                "phones": ["441-441-4411", "442-442-4422", "443-443-4433"]
+            },
+            {
+                "firstName": "Hermione",
+                "lastName": "Granger",
+                "email": "hgranger@hogwarts.magic ",
+                "phones": ["551-551-5511", "552-552-5522", "553-553-5533"]
+            },
+            {
+                "firstName": "Ron",
+                "lastName": "Weasley",
+                "email": "ronwsl@hogwarts.magic ",
+                "phones": ["661-661-6611", "662-662-6622", "663-663-6633"]
+            },
+            {
+                "firstName": "Cedric",
+                "lastName": "Diggory",
+                "email": "diggory@hogwarts.magic ",
+                "phones": ["211-211-2211", "212-212-2121", "213-213-2133"]
+            },
+            {
+                "firstName": "Cho",
+                "lastName": "Chang",
+                "email": "chochang@hogwarts.magic ",
+                "phones": ["311-311-3311", "312-312-3312", "313-313-3313"]
+            },
+            {
+                "firstName": "Oliver",
+                "lastName": "Wood",
+                "email": "woliver@hogwarts.magic ",
+                "phones": ["411-411-4411", "412-412-4412", "413-413-4413"]
+            }
+        ]
+    }
+}
